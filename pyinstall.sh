@@ -5,3 +5,4 @@
 # Activación: chmod +x pylibinstall.sh
 
 pip install pandas
+pip install scikit-learn
